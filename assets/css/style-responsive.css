@@ -1,0 +1,25 @@
+@media (max-width: 1169px) {
+
+}
+
+@media (max-width: 979px) {
+  .btn {
+    margin-bottom: 7px;
+    margin-top:7px;
+  }
+}
+
+@media (max-width: 767px) {
+  .feature {
+    margin-top: 20px;
+  }
+  
+  .btn-conf {
+    margin-right: 0;
+  }
+  
+  .navbar-brand {
+    font-size: 14px;
+  }
+   
+}
