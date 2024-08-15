@@ -315,7 +315,7 @@ input {
 
 /* NTE SECTION */
 #nte {
-	background: url(../img/NTEpic.jpg) no-repeat center top;
+	background: url(../img/NTEpic.jpg) no-repeat top;
 	padding-top: 90px;
 	background-attachment: relative;
 	background-position: top;
