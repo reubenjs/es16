@@ -313,6 +313,28 @@ input {
   padding-bottom: 40px;
 }
 
+/* NTE SECTION */
+#nte {
+	background: url(../img/NTEpic.jpg) no-repeat center top;
+	padding-top: 90px;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 400px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
 /* INTERNATIONAL STUDENTS SECTION */
 #focus {
 	background: url(../img/focus_apr_camp_2022.jpg) no-repeat center top;
